@@ -1,2 +1,2 @@
 # Projeto-Madlibs
-# Projeto de aprendizagem, ainda falta traduzir alguns texto
+## Projeto de aprendizagem, ainda falta traduzir alguns texto
